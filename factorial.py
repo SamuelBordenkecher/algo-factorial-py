@@ -12,4 +12,4 @@ def factorial(num):
 	return total
 
 
-print(factorial(4))
+print(factorial(45))
